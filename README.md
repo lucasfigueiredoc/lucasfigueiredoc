@@ -1,6 +1,7 @@
 
 #### Olá, me chamo Lucas, sou estudante de BSI no IFNMG campus Januária
 #### Aqui tento mostrar tudo que estou aprendendo
+<!--
 - Segue como me encontrar:
 
 <!-- links redes sociais -->
@@ -29,3 +30,4 @@
 lucasfigueiredoc/lucasfigueiredoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-->
